@@ -1,0 +1,39 @@
+Bryophyta,Mosses,Phylum
+Pterophyta,Ferns,Phylum
+Coniferophyta,Conifers,Phylum
+Anthophyta,Flowering Plants,Phylum
+Porifera,Sponges,Phylum
+Cnidaria,Jellyfish,Phylum
+Platyhelminthes,Flatworms,Phylum
+Annelida Oligochaeta,Earthworms,Phylum and Class
+Annelida Hirudinea,Leeches,Phylum and Class
+Arthropoda Arachnida,Arachnids,Phylum and Class
+Arthropoda Crustacea,Crustaceans,Phylum and Class
+Arthropoda Insecta Orthoptera,Grasshoppers,Phylum and Class and Order
+Arthropoda Insecta Plecoptera,Stoneflies,Phylum and Class and Order
+Arthropoda Insecta Ephemeroptera,Mayflies,Phylum and Class and Order
+Arthropoda Insecta Lepidoptera,Moths,Phylum and Class and Order
+Arthropoda Insecta Coleoptera,Beetles,Phylum and Class and Order
+Arthropoda Insecta Diptera,True Flies,Phylum and Class and Order
+Arthropoda Insecta Hymenoptera,Bees/Wasps/Sawflies,Phylum and Class and Order
+Echinodermata,Starfish/Sea Urchins/Sand Dollars/Sea Cucumbers,Phylum
+Mollusca Gastropoda,Snails/Slugs,Phylum and Class
+Mollusca Bivalvia,Clams/Mussels,Phylum and Class
+Mollusca Cephalopoda,Squid/Octopus,Phylum and Class
+Chordata Agnatha,Jawless Fish,Phylum and Class
+Chordata Chondrichthyes,Cartiliginous Fish,Phylum and Class
+Chordata Actinopterygii,Ray Finned Fishes,Phylum and Class
+Chordata Sarcopterygii,Lobe Finned Fish,Phylum and Class
+Chordata Amphibia Anura,Frogs/Toads,Phylum and Class and Order
+Chordata Reptilia Testudines,Turtles,Phylum and Class and Order
+Chordata Reptilia Squamata,Lizards/Snakes,Phylum and Class and Order
+Chordata Aves Passeriformes,Perching Birds,Phylum and Class and Order
+Chordata Aves Galliformes,Landfowl (Turkeys/Quail),Phylum and Class and Order
+Chordata Aves Anseriformes,Waterfowl,Phylum and Class and Order
+Chordata Aves Falconiformes,Birds of Prey,Phylum and Class and Order
+Chordata Mammalia Didelphimorphia,Marsupials,Phylum and Class and Order
+Chordata Mammalia Rodentia,Rodents,Phylum and Class and Order
+Chordata Mammalia Lagomorpha,Rabbits/Hares,Phylum and Class and Order
+Chordata Mammalia Carnivora Felidae,Cats,Phylum and Class and Order and Family
+Chordata Mammalia Carnivora Canidae,Dogs,Phylum and Class and Order and Family
+Chordata Mammalia Primates Homo Sapiens,Humans,Phylum and Class and Order and Family
