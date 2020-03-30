@@ -12,6 +12,7 @@ Scientific Classification,Common Name,Requires Fields
 '''
 file = open('answers.csv', 'r')
 
+# pre-defining lists
 answers = []
 incorrect_answers = []
 
