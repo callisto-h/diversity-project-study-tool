@@ -2,6 +2,10 @@ This study study tool should help in memorizing the phylum/classes/orders/famili
 
 This script requires python3, and sources all of the study content from an associated "answers.csv" file which is included.
 
+Entries in "answers.csv" are in the following format:
+
+Scientific Name,Common Name,Classification Level
+
 User progress is tracked through the prompts, any incorrect responses have the prompts reshuffled into the queue. At the end, the user is provided with a list of all prompts answered incorrectly. 
 
-:)
+Callisto :)
